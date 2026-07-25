@@ -15,3 +15,5 @@ Các tính năng chính:
 - Hiệu ứng hover
 - Hoạt hình
 - Menu di động
+-Link figma:https://www.figma.com/design/f8yrHE9CwzurEJdmEa89vF/Webdev-Midterm?node-id=0-1&t=DOEi7NDQrOq4t2yL-1
+-Live Demo:
