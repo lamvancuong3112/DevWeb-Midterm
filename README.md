@@ -9,11 +9,9 @@ Trang web gồm có ba trang:
 - Trang web bán sản phẩm gói tập gym
 - Tham quan Củ Chi vùng đất Kiên Cường
 
-Các tính năng chính:
+Thông tin cần thiết :
 
-- Thiết kế đáp ứng
-- Hiệu ứng hover
+- Link figma:https://www.figma.com/design/f8yrHE9CwzurEJdmEa89vF/Webdev-Midterm?node-id=0-1&t=DOEi7NDQrOq4t2yL-1
+- Live Demo:
 - Hoạt hình
 - Menu di động
--Link figma:https://www.figma.com/design/f8yrHE9CwzurEJdmEa89vF/Webdev-Midterm?node-id=0-1&t=DOEi7NDQrOq4t2yL-1
--Live Demo:
