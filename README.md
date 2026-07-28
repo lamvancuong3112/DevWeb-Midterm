@@ -13,6 +13,6 @@
 # Thông tin cần thiết :
 
 - Link figma:https://www.figma.com/design/f8yrHE9CwzurEJdmEa89vF/Webdev-Midterm?node-id=0-1&t=DOEi7NDQrOq4t2yL-1
-- Live Demo:https://github.com/lamvancuong3112/DevWeb-Midterm
+- Live Demo:https://lamvancuong3112.github.io/DevWeb-Midterm/
 ## Lưu ý 
 - Hình ảnh cần tạo thư mục image cùng đường dẫn với các file html, css, js thì mới load ảnh được
